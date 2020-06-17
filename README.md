@@ -10,3 +10,4 @@ Example of things that could be done with more time:
 	- move weather related code to it's own component that is instantiated in App.js
 	- add http interceptor to add JWT and error interceptor for global error handling
 	- send error's to error logging such as Azure Application Insights
+	- implement Redux for global state management
